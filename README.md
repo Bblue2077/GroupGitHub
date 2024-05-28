@@ -8,3 +8,6 @@ I learned how to push to and pull from GitHub.
 
 ##Chloe Evans:- 
 I learned how to clone. ![chloe](<img src="//images.pexels.com/photos/736230/pexels-photo-736230.jpeg?cs=srgb&dl=pexels-jonaskakaroto-736230.jpg&fm=jpg">)
+
+##Rodale Brown:-
+I learned how to use git add, git checkout -b and git push. ![Rodale] (<img src="https://www.wikihow.com/images/thumb/f/fc/Get-the-URL-for-Pictures-Step-1-Version-6.jpg/aid597183-v4-728px-Get-the-URL-for-Pictures-Step-1-Version-6.jpg.webp">)
